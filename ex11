@@ -1,0 +1,2 @@
+words=["Romania","Belgia","USA","Croatia"]
+print(words[2],words[3])
